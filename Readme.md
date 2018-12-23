@@ -1,5 +1,5 @@
-# sudo-newty
-Google Chrome does not allow overriding new tab pages. This small extension lets you use a custom new tab web page
+# sudo-newtab
+Google Chrome does not allow overriding new tab pages. This extension lets you use a custom new tab landing page
 
 ## Usage
  - clone the repository
